@@ -18,12 +18,12 @@ The implementation focuses on clarity, minimal dependencies, and ease of extendi
 ## 🚀 Learning Framework
 
 ### CycleGAN-based Residual Learning Framework
-<p align="center">
+<p align="left">
   <img src="assets/img_losses.jpg" alt="CycleGAN" width="700"/>
 </p>
 
 ### Noise2Score Learning Framework
-<p align="center">
+<p align="left">
   <img src="assets/img_n2s_flow.jpg" alt="N2S" width="700"/>
 </p>
 
@@ -32,12 +32,12 @@ The implementation focuses on clarity, minimal dependencies, and ease of extendi
 ## 🔍 Evaluation
 
 ### Qualitative Evaluation
-<p align="center">
+<p align="left">
   <img src="assets/img_qualitative.png" alt="qualitative" width="800"/>
 </p>
 
 ### Training Loss Curves in CycleGAN
-<table align="center">
+<table align="left">
   <tr>
     <td align="center">
       <img src="assets/img_adv_loss.png" alt="Adversarial Loss" width="340"/>
@@ -53,6 +53,6 @@ The implementation focuses on clarity, minimal dependencies, and ease of extendi
 </table>
 
 ### Training Loss Curves in Noise2Score
-<p align="center">
+<p align="left">
   <img src="assets/img_n2s_loss.png" alt="n2s_loss" width="500"/>
 </p>
