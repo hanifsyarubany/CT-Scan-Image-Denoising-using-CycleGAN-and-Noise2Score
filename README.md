@@ -37,20 +37,22 @@ The implementation focuses on clarity, minimal dependencies, and ease of extendi
 </p>
 
 ### Training Loss Curves in CycleGAN
-<table align="left">
+<div align="left">
+<table>
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <img src="assets/img_adv_loss.png" alt="Adversarial Loss" width="340"/>
       <br>
       <em>Adversarial Loss</em>
     </td>
-    <td align="center">
-      <img src="assets/img_cycle_iden.png" alt="Identity Loss" width="360"/>
+    <td align="center" width="50%">
+      <img src="assets/img_cycle_iden.png" alt="Cycle + Identity Loss" width="360"/>
       <br>
-      <em>Identity Loss</em>
+      <em>Cycle + Identity Loss</em>
     </td>
   </tr>
 </table>
+</div>
 
 ### Training Loss Curves in Noise2Score
 <p align="left">
