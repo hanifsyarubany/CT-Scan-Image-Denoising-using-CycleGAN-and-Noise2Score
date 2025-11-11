@@ -13,5 +13,5 @@ It includes training and testing scripts, dataset preparation utilities, and res
 The implementation focuses on clarity, minimal dependencies, and ease of extending to new datasets or model architectures.
 
 📝 You can read the full article here:  
-👉[Arxiv]([https://medium.com/@hanifsarubany10/colpali-meets-doclaynet-a-vision-aware-multimodal-rag-for-document-qa-74c15a9bd333](https://arxiv.org/pdf/2511.04083))
----
+👉 [Arxiv](https://arxiv.org/pdf/2511.04083)
+
