@@ -15,3 +15,14 @@ The implementation focuses on clarity, minimal dependencies, and ease of extendi
 📝 You can read the full article here:  
 👉 [Arxiv](https://arxiv.org/pdf/2511.04083)
 
+## 🚀 Learning Framework
+
+### CycleGAN-based Residual Learning Framework
+<p align="center">
+  <img src="assets/img_losses.jpg" alt="CycleGAN" width="700"/>
+</p>
+
+### Noise2Score Learning Framework
+<p align="center">
+  <img src="assets/img_n2s_flow.jpg" alt="N2S" width="700"/>
+</p>
