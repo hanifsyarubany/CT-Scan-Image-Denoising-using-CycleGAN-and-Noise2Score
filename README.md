@@ -29,7 +29,30 @@ The implementation focuses on clarity, minimal dependencies, and ease of extendi
 
 ---
 
-## 🔍 Qualitative Evaluation
+## 🔍 Evaluation
+
+### Qualitative Evaluation
 <p align="center">
   <img src="assets/img_qualitative.png" alt="qualitative" width="800"/>
+</p>
+
+### Training Loss Curves in CycleGAN
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="assets/img_adv_loss.png" alt="Adversarial Loss" width="340"/>
+      <br>
+      <em>Adversarial Loss</em>
+    </td>
+    <td align="center">
+      <img src="assets/img_cycle_iden.png" alt="Identity Loss" width="360"/>
+      <br>
+      <em>Identity Loss</em>
+    </td>
+  </tr>
+</table>
+
+### Training Loss Curves in Noise2Score
+<p align="center">
+  <img src="assets/img_n2s_loss.png" alt="n2s_loss" width="500"/>
 </p>
