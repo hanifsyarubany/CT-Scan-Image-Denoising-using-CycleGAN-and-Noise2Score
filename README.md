@@ -26,3 +26,10 @@ The implementation focuses on clarity, minimal dependencies, and ease of extendi
 <p align="center">
   <img src="assets/img_n2s_flow.jpg" alt="N2S" width="700"/>
 </p>
+
+---
+
+## 🔍 Qualitative Evaluation
+<p align="center">
+  <img src="assets/img_qualitative.png" alt="qualitative" width="800"/>
+</p>
